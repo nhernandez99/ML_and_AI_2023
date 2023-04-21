@@ -1,4 +1,4 @@
-# Data Science in 2023: The World of Machine Learning & Artificial Intelligence
+# Data Science in 2023: Machine Learning & Artificial Intelligence
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
